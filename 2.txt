@@ -1,4 +1,6 @@
 First FIle
 Add word
 edited 12345sfldkjfaiwoejf
-我第二次改2.txt 
+修改了要commit lalalalalalasdoijsfoisd
+Eric解決了衝突
+
